@@ -8,4 +8,3 @@ calculateEl.addEventListener("click",()=>{
     totalEl.innerText= sum;
 })
 
-
